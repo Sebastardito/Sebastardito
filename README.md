@@ -223,16 +223,16 @@ gantt
 
 | When | Role | Where | Highlights |
 | --- | --- | --- | --- |
-| 2024–2026 | **R&D Manager** | NRGene Canada · North American Insect Center | Led black soldier fly phenotyping, selective breeding and genomics with a team of 8–12; 15–30 breeding lines over ~24 generations; automation that cut time on key tasks by up to 80%; varieties that could roughly double the weight of commercial ones |
+| 2024–2026 | **R&D Manager** | NRGene Canada · North American Insect Center (Saskatoon) | Led black soldier fly phenotyping, selective breeding and genomics with a team of 8–12; 15–30 breeding lines over ~24 generations; automation that cut time on key tasks by up to 80%; varieties that could roughly double the weight of commercial ones |
 | 2023–2024 | Head Entomologist & Principal Investigator | NRGene Canada | Built the lab rearing, phenotyping and breeding operation from the ground up; SOPs; WGS-driven breeding strategies |
 | 2022–2023 | Research Technician | NRGene Canada | Rearing protocols, phenotypic data collection, tissue preparation |
 | 2014–today | **Lecturer (Adjunct Professor)** | PUCE, Ecuador — Health Sciences & Psychology | Biochemistry, Introduction to Biology, molecular techniques for diagnosis, research methodology — 12+ years |
-| 2017–2023 | PhD researcher & Teaching Assistant | University of Saskatchewan | Galápagos mockingbird population genomics; fieldwork, NGS library prep, variant calling, de novo assembly, annotation |
+| 2017–2023 | PhD researcher & Teaching Assistant | University of Saskatchewan (Saskatoon) | Galápagos mockingbird population genomics; fieldwork, NGS library prep, variant calling, de novo assembly, annotation |
 | 2007–2017 | Researcher & laboratory roles | PUCE · SENECYT · Ministry of Environment of Ecuador | Molecular ecology, genetic inventories of Andean fauna, a genetic characterization of Ecuador's national parks (8,000+ sequences) |
 
 | Degree | Institution | Thesis |
 | --- | --- | --- |
-| **PhD, Biology** (2017–2023) | University of Saskatchewan, Canada | Population genomics of the Galápagos Island mockingbirds and implications for conservation |
+| **PhD, Biology** (2017–2023) | University of Saskatchewan, Saskatoon, Canada | Population genomics of the Galápagos Island mockingbirds and implications for conservation |
 | **MSc, Conservation Biology** (2012–2016) | PUCE, Ecuador | Edge effect on the demographics and genetic structure of *Prestoea acuminata* palm populations |
 | **BSc, Biology** (2004–2010) | PUCE, Ecuador | Historical and spatial variation in genetic structure of two *Ceroxylon echinulatum* populations |
 
