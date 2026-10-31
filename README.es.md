@@ -223,16 +223,16 @@ gantt
 
 | Cuándo | Cargo | Dónde | Logros |
 | --- | --- | --- | --- |
-| 2024–2026 | **Gerente de I+D** | NRGene Canada · North American Insect Center | Lideré el fenotipado, el mejoramiento genético y la genómica de la mosca soldado negra con un equipo de 8–12 personas; 15–30 líneas de cría durante ~24 generaciones; automatización que redujo hasta un 80 % el tiempo de tareas clave; variedades que podrían duplicar aproximadamente el peso de las comerciales |
+| 2024–2026 | **Gerente de I+D** | NRGene Canada · North American Insect Center (Saskatoon) | Lideré el fenotipado, el mejoramiento genético y la genómica de la mosca soldado negra con un equipo de 8–12 personas; 15–30 líneas de cría durante ~24 generaciones; automatización que redujo hasta un 80 % el tiempo de tareas clave; variedades que podrían duplicar aproximadamente el peso de las comerciales |
 | 2023–2024 | Entomólogo Jefe e Investigador Principal | NRGene Canada | Armé desde cero la operación de cría, fenotipado y mejoramiento; SOP; estrategias de cría guiadas por secuenciación de genoma completo |
 | 2022–2023 | Técnico de investigación | NRGene Canada | Protocolos de cría, recolección de datos fenotípicos y preparación de tejidos |
 | 2014–hoy | **Docente Universitario (Profesor Adjunto)** | PUCE, Ecuador — Ciencias de la Salud y Psicología | Bioquímica, Introducción a la Biología, técnicas moleculares para diagnóstico, metodología de la investigación — más de 12 años |
-| 2017–2023 | Investigador doctoral y Asistente de docencia | Universidad de Saskatchewan | Genómica de poblaciones de sinsontes de Galápagos; trabajo de campo, bibliotecas NGS, llamado de variantes, ensamblaje de novo, anotación |
+| 2017–2023 | Investigador doctoral y Asistente de docencia | Universidad de Saskatchewan (Saskatoon) | Genómica de poblaciones de sinsontes de Galápagos; trabajo de campo, bibliotecas NGS, llamado de variantes, ensamblaje de novo, anotación |
 | 2007–2017 | Investigador y roles de laboratorio | PUCE · SENECYT · Ministerio del Ambiente de Ecuador | Ecología molecular, inventarios genéticos de fauna andina, la caracterización genética de los parques nacionales de Ecuador (más de 8.000 secuencias) |
 
 | Título | Institución | Tesis |
 | --- | --- | --- |
-| **PhD en Biología** (2017–2023) | Universidad de Saskatchewan, Canadá | Genómica de poblaciones de los sinsontes de las islas Galápagos e implicaciones para la conservación |
+| **PhD en Biología** (2017–2023) | Universidad de Saskatchewan, Saskatoon, Canadá | Genómica de poblaciones de los sinsontes de las islas Galápagos e implicaciones para la conservación |
 | **MSc en Biología de la Conservación** (2012–2016) | PUCE, Ecuador | Efecto de borde en la demografía y la estructura genética de poblaciones de la palma *Prestoea acuminata* |
 | **BSc en Biología** (2004–2010) | PUCE, Ecuador | Variación histórica y espacial de la estructura genética de dos poblaciones de *Ceroxylon echinulatum* |
 
