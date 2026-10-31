@@ -10,7 +10,7 @@
 
 ## Hi, I'm Seb 👋
 
-I'm a **biologist and genomics specialist** (PhD, University of Saskatchewan) based in Saskatoon, Canada. I spent 18+ years reading genomes — from Galápagos mockingbirds to black soldier flies — and now I borrow what genomics taught me to build a different kind of AI: one that **splits the problem, not the model**.
+I'm a **biologist and genomics specialist** (PhD, University of Saskatchewan) based in Canada. I spent 18+ years reading genomes — from Galápagos mockingbirds to black soldier flies — and now I borrow what genomics taught me to build a different kind of AI: one that **splits the problem, not the model**.
 
 | Snapshot | Details |
 | --- | --- |
@@ -19,7 +19,7 @@ I'm a **biologist and genomics specialist** (PhD, University of Saskatchewan) ba
 | 🎓 Teaching | Lecturer (Adjunct Professor), PUCE — since 2014 |
 | 🧪 Recently | R&D Manager & Principal Investigator, NRGene Canada's North American Insect Center (until Sep 2026) |
 | 🗣️ Languages | Spanish (native) · English (full professional) |
-| 📍 Based in | Saskatoon, Saskatchewan, Canada |
+| 📍 Based in | Canada |
 
 **Find your way around**
 
@@ -223,7 +223,7 @@ gantt
 
 | When | Role | Where | Highlights |
 | --- | --- | --- | --- |
-| 2024–2026 | **R&D Manager** | NRGene Canada · North American Insect Center (Saskatoon) | Led black soldier fly phenotyping, selective breeding and genomics with a team of 8–12; 15–30 breeding lines over ~24 generations; automation that cut time on key tasks by up to 80%; varieties that could roughly double the weight of commercial ones |
+| 2024–2026 | **R&D Manager** | NRGene Canada · North American Insect Center | Led black soldier fly phenotyping, selective breeding and genomics with a team of 8–12; 15–30 breeding lines over ~24 generations; automation that cut time on key tasks by up to 80%; varieties that could roughly double the weight of commercial ones |
 | 2023–2024 | Head Entomologist & Principal Investigator | NRGene Canada | Built the lab rearing, phenotyping and breeding operation from the ground up; SOPs; WGS-driven breeding strategies |
 | 2022–2023 | Research Technician | NRGene Canada | Rearing protocols, phenotypic data collection, tissue preparation |
 | 2014–today | **Lecturer (Adjunct Professor)** | PUCE, Ecuador — Health Sciences & Psychology | Biochemistry, Introduction to Biology, molecular techniques for diagnosis, research methodology — 12+ years |
