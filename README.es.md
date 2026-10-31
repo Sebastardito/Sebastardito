@@ -10,7 +10,7 @@
 
 ## Hola, soy Seb 👋
 
-Soy **biólogo y especialista en genómica** (PhD, Universidad de Saskatchewan) y vivo en Saskatoon, Canadá. Llevo más de 18 años leyendo genomas — de los sinsontes de Galápagos a las moscas soldado negra — y ahora uso lo que la genómica me enseñó para construir otra clase de IA: una que **divide el problema, no el modelo**.
+Soy **biólogo y especialista en genómica** (PhD, Universidad de Saskatchewan) y vivo en Canadá. Llevo más de 18 años leyendo genomas — de los sinsontes de Galápagos a las moscas soldado negra — y ahora uso lo que la genómica me enseñó para construir otra clase de IA: una que **divide el problema, no el modelo**.
 
 | Resumen | Detalle |
 | --- | --- |
@@ -19,7 +19,7 @@ Soy **biólogo y especialista en genómica** (PhD, Universidad de Saskatchewan) 
 | 🎓 Docencia | Docente Universitario (Profesor Adjunto), PUCE — desde 2014 |
 | 🧪 Recientemente | Gerente de I+D e Investigador Principal, North American Insect Center de NRGene Canada (hasta sep. 2026) |
 | 🗣️ Idiomas | Español (nativo) · Inglés (profesional completo) |
-| 📍 Vivo en | Saskatoon, Saskatchewan, Canadá |
+| 📍 Vivo en | Canadá |
 
 **Cómo moverte por aquí**
 
@@ -223,7 +223,7 @@ gantt
 
 | Cuándo | Cargo | Dónde | Logros |
 | --- | --- | --- | --- |
-| 2024–2026 | **Gerente de I+D** | NRGene Canada · North American Insect Center (Saskatoon) | Lideré el fenotipado, el mejoramiento genético y la genómica de la mosca soldado negra con un equipo de 8–12 personas; 15–30 líneas de cría durante ~24 generaciones; automatización que redujo hasta un 80 % el tiempo de tareas clave; variedades que podrían duplicar aproximadamente el peso de las comerciales |
+| 2024–2026 | **Gerente de I+D** | NRGene Canada · North American Insect Center | Lideré el fenotipado, el mejoramiento genético y la genómica de la mosca soldado negra con un equipo de 8–12 personas; 15–30 líneas de cría durante ~24 generaciones; automatización que redujo hasta un 80 % el tiempo de tareas clave; variedades que podrían duplicar aproximadamente el peso de las comerciales |
 | 2023–2024 | Entomólogo Jefe e Investigador Principal | NRGene Canada | Armé desde cero la operación de cría, fenotipado y mejoramiento; SOP; estrategias de cría guiadas por secuenciación de genoma completo |
 | 2022–2023 | Técnico de investigación | NRGene Canada | Protocolos de cría, recolección de datos fenotípicos y preparación de tejidos |
 | 2014–hoy | **Docente Universitario (Profesor Adjunto)** | PUCE, Ecuador — Ciencias de la Salud y Psicología | Bioquímica, Introducción a la Biología, técnicas moleculares para diagnóstico, metodología de la investigación — más de 12 años |
